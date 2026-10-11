@@ -1,0 +1,25 @@
+﻿# Unfinished project — do not publish yet
+/COMP5313_Project1_FraudDetection/
+# Academic presentation — add later
+/NSKG Autonomous Systems.pptx
+# Course PDF — review before publishing
+/AI 5313 exercise and assignment Sept 22.pdf
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+# Jupyter
+.ipynb_checkpoints/
+# Secrets
+.env
+.env.*
+!.env.example
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Logs
+*.log
